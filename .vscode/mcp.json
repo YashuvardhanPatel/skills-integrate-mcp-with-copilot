@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "yashu-github": {
+      "type": "http",
+      "url": "https://api.githubcopilot.com/mcp/"
+    }
+  }
+}
